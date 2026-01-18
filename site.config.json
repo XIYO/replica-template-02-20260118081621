@@ -1,8 +1,9 @@
 {
-  "subdomain": "replica-template-02",
-  "title": "AI Agent의 전망과 미래",
-  "description": "AI 에이전트의 핵심 기술, 활용 분야, 그리고 미래 전망을 심층적으로 분석합니다.",
-  "accentColor": "#6366f1",
+  "template": "replica-template-02",
+  "accentColor": "#3b82f6",
   "locale": "ko",
-  "githubRepo": "XIYO/replica-template-02"
+  "title": "스토아 철학 입문",
+  "topic": "현대인을 위한 스토아 철학 실천 가이드",
+  "subdomain": "site-mkjglz7w-swms",
+  "githubRepo": "xiyo/replica-template-02-20260118081621"
 }

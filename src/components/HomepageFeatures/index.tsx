@@ -11,20 +11,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '개요',
+    title: '핵심 실천 원칙',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        AI 에이전트의 정의, 발전 역사, 현재 기술 수준을 알아봅니다.
+        통제의 이분법 훈련, 부정적 상황의 선취, 조감도의 시선
       </>
     ),
   },
   {
-    title: '핵심 기술',
+    title: '일상의 루틴',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        LLM 기반 에이전트, 멀티모달 에이전트, 자율 에이전트 아키텍처를 분석합니다.
+        아침의 마음 준비, 스토아적 저녁 성찰, 사회적 관계의 기술
       </>
     ),
   },
